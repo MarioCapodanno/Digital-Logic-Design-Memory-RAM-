@@ -1,3 +1,5 @@
+Academic year: 2023/2024
+
 # VHDL Component for Data Processing from RAM
 
 ## Project Description
